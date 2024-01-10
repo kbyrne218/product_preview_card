@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    /*font-family: 'Fraunces', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background: hsl(30, 38%, 92%);
+}
